@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjankumar1&label=Profile%20views&color=0e75b6&style=flat" alt="niranjankumar1" /> </p>
 
-- 🔭 I’m currently working on **Front-End Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/niranjankumar1](https://github.com/niranjankumar1)
+- 👨‍💻 All of my projects are available at [https://github.com/DevByKumar](https://github.com/DevByKumar)
 
 - 💬 Ask me about **Html, Css, Js, Sql and Python**
 
-- 📫 How to reach me **niranjankumarkornepati@gmail.com**
+- 📫 How to reach me **niranjankumarkornepati1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HeKYOJaibix-ehu5YnsWCZv76Mi97kP7/view?usp=sharing](https://drive.google.com/file/d/1HeKYOJaibix-ehu5YnsWCZv76Mi97kP7/view?usp=sharing)
 
