@@ -9,10 +9,6 @@
 
 - 💬 Ask me about **Html, Css, Js, Sql and Python**
 
-- 📫 How to reach me **niranjankumarkornepati1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HeKYOJaibix-ehu5YnsWCZv76Mi97kP7/view?usp=sharing](https://drive.google.com/file/d/1HeKYOJaibix-ehu5YnsWCZv76Mi97kP7/view?usp=sharing)
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@niranja30054011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@niranja30054011" height="30" width="40" /></a>
